@@ -13,3 +13,5 @@ print("\n----- Result -----")
 print(f"Hello {name}!")
 print(f"The sum of {num1} and {num2} is {sum_result}")
 print("------------------")
+print("Testing rebase branch update")
+
